@@ -1,0 +1,35 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  padding-bottom: 20px;
+}
+
+body .container center p {
+  font-size: 19px;
+  margin-bottom: 15px;
+}
+
+hr {
+  border-top: 5px solid #eee;
+}
+
+h2 {
+  margin-bottom:30px;
+}
+
+.spangg-button {
+  background-color: #3586c3;
+  border: 1px solid #bfbfbf;
+  color: #fff;
+  margin: 5px;
+}
+
+.spangg-button:hover {
+  background-color: #eb3825;
+  color: #fff;
+  font-weight:bold;
+}
+

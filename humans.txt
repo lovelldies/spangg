@@ -1,0 +1,22 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Founder/CEO: Adarsh Varghese
+    Contact: adarsh [at] spangg.com
+    Twitter: @adarshvarghese
+    
+    UI/UX/SEO: Lovell D'souza
+    Contact: lovell [at] spangg.com
+    Twitter: @lovelldies
+
+# SITE
+
+	Last update: May 4, 2017
+    # Last update: September 23, 2015
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
