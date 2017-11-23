@@ -30,4 +30,4 @@ include_once './inc/header.php';
     </div>
   </div>
 
-<?php include_once './inc/footer.php'; ?>
+  <?php include_once './inc/footer.php'; ?>
