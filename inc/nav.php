@@ -48,10 +48,9 @@
     <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" aria-expanded="false">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="about">About Us</a></li>
+        <li><a href="services">Services</a></li>
         <li><a href="work">Work</a></li>
         <!--
-        <li><a href="services">Services</a></li>
-        
         <li><a href="contact">Contact</a></li>
         -->
       </ul>

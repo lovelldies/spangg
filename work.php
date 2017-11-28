@@ -1,5 +1,5 @@
 <?php 
-$pageTitle = 'About Spangg &mdash; Digital Marketing Agency';
+$pageTitle = 'Work | Spangg &mdash; Digital Marketing Agency';
 
 include_once './inc/header.php';
 ?>
