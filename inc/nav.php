@@ -1,7 +1,9 @@
 <style>
+  .navbar-brand {
+    padding: 5px 10px;
+  }
   .navbar-brand img {
-    width: 25px;
-    height: 25px;
+    height: 40px;
     display: inline-block;
   }
   .navbar-default {
@@ -37,7 +39,10 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="/">
+        <img alt="Spangg" src="./img/spangg-logo.png">
+        <!--
         <img alt="Spangg" src="./img/favicon.png"><span id="spangg-logo-text">spangg</span>
+        -->
       </a>
     </div>
     <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" aria-expanded="false">
