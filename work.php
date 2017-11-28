@@ -3,7 +3,11 @@ $pageTitle = 'About Spangg &mdash; Digital Marketing Agency';
 
 include_once './inc/header.php';
 ?>
-
+<style>
+#client-logos {
+  padding: 50px 0;
+}
+</style>
 <div class="container" id="work">
 <img src="./img/work-banner.png" alt="Work by Spangg!" class="img-responsive">
 </div>
@@ -18,5 +22,30 @@ include_once './inc/header.php';
   </div>
 </div>
 
+<div class="container" id="client-logos">
+<center>
+  <h2>Brands we've worked with.</h2>
+  <div class="row">
+    <div class="col-sm-2">
+      <img src="https://via.placeholder.com/120x120" alt="" class="img-circle">
+    </div>
+    <div class="col-sm-2">
+      <img src="https://via.placeholder.com/120x120" alt="" class="img-circle">
+    </div>
+    <div class="col-sm-2">
+      <img src="https://via.placeholder.com/120x120" alt="" class="img-circle">
+    </div>
+    <div class="col-sm-2">
+      <img src="https://via.placeholder.com/120x120" alt="" class="img-circle">
+    </div>
+    <div class="col-sm-2">
+      <img src="https://via.placeholder.com/120x120" alt="" class="img-circle">
+    </div>
+    <div class="col-sm-2">
+      <img src="https://via.placeholder.com/120x120" alt="" class="img-circle">
+    </div>
+  </div>
+</center>
+</div>
 
 <?php include_once './inc/footer.php'; ?>
