@@ -48,4 +48,5 @@ include_once './inc/header.php';
 </center>
 </div>
 
+<?php include_once './inc/get_in_touch.php'; ?>
 <?php include_once './inc/footer.php'; ?>

@@ -156,4 +156,5 @@ hr {
   </div>
 </div>
 
+<?php include_once './inc/get_in_touch.php'; ?>
 <?php include_once './inc/footer.php'; ?>

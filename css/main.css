@@ -16,6 +16,14 @@ body .container center p {
   margin-bottom: 15px;
 }
 
+.contact-button {
+  margin: 70px 0;
+  text-align: center;
+}
+.contact-button .spangg-button {
+  padding: 15px 45px;
+}
+
 hr {
   border-top: 2px solid #eee;
 }
@@ -42,6 +50,6 @@ h2 {
 .spangg-button:hover {
   background-color: #eb3825;
   color: #fff;
-  font-weight: bold;
+  xfont-weight: bold;
 }
 
