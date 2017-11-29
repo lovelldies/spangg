@@ -25,8 +25,8 @@ include_once './inc/header.php';
 <div class="jumbotron">
   <div class="container-fluid">
     <center>
-    <h2>we're experts at helping B2C brands achieve their business goals</h2>
-    <p>Click on one of the blue buttons, below, to see a soon-to-be updated deck of some of the stuff we've done.</p>
+    <h2>we have helped several organisations win; we can help you, too</h2>
+    <p>Click on one of the blue buttons to see some of the work we've done.</p>
     <p><a class="btn spangg-button btn-lg" href="https://drive.google.com/uc?export=download&amp;id=0B-vTv-KRpo43S1FDbHVnZVc5SUxpU2Q4VXdCRVY1LXplLXNJ" role="button">Download <small>(16MB)</small> »</a> <a role="button" class="btn spangg-button btn-lg" target="_blank" href="https://drive.google.com/file/d/0B-vTv-KRpo43S1FDbHVnZVc5SUxpU2Q4VXdCRVY1LXplLXNJ/view?usp=sharing">View Online</a></p>
     </center>
   </div>
@@ -34,7 +34,7 @@ include_once './inc/header.php';
 
 <div class="container" id="client-logos">
 <center>
-  <h2>Brands we've worked with.</h2>
+  <h2>brands we've worked with</h2>
   <div class="row">
     <div class="col-sm-3 logo-div">
       <img class="img-responsive" src="./img/logos/reliance-entertainment.png" alt="Reliance Entertainment" title="Reliance Entertainment">
@@ -48,7 +48,6 @@ include_once './inc/header.php';
     <div class="col-sm-3 logo-div">
       <img class="img-responsive" src="./img/logos/hcc.png" alt="Heart Cup Coffee" title="Heart Cup Coffee">
     </div>
-
   </div>
   <div class="row">
     <div class="col-sm-4 logo-div">
