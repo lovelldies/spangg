@@ -13,9 +13,11 @@
   }
   .navbar-right li a {
     text-transform: uppercase;
+    font-size: 1.75rem;
   }
   .navbar-default .navbar-nav li a {
-    color: #2b71b6;
+    /* color: #2b71b6; */
+    color: #424242;
   }
   .navbar-default .navbar-nav li a:hover,
   .navbar-default .navbar-nav li a:focus {
