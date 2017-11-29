@@ -29,7 +29,7 @@ hr {
     <div class="col-md-7" style="border-right: 2px solid white; padding-right: 50px;">
       <?php include_once './inc/contact_form.php'; ?>
     </div>
-    <div class="col-md-5" style="text-align: left; padding-left: 50px; margin: 90px auto;">
+    <div class="col-md-5" style="text-align: left; padding-left: 50px; margin: 70px auto 50px auto">
       <address>
         <strong>Spangg Publicity and Media Private Limited</strong> <br>
         D-5, 10-28-4/27, Deepanjali <br>
@@ -51,6 +51,8 @@ hr {
         <small>Dublin, Ireland</small> <br>
         <strong>Adarsh:</strong> <a href="tel:+353 830425823">+353 830425823</a>
       </address>
+
+      <a href="https://www.facebook.com/SpanggMedia/" title="Find us on Facebook" target="_blank"><img src="./img/facebook-60px.png" alt="Find us on Facebook"class="img-circle"></a>
     </div>
   </div>
 </div>

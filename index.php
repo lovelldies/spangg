@@ -13,9 +13,9 @@ include_once './inc/header.php';
   <div class="jumbotron">
     <div class="container">
       <center>
-      <h2>we're experts at helping B2C brands achieve their business goals</h2>
-      <p>Our digital marketing expertise has been appreciated by the best and the brightest. Click on one of the blue buttons, below, to see what we're great at, and some of the stuff we've done.</p>
-      <p><a class="btn spangg-button btn-lg" href="https://drive.google.com/uc?export=download&id=0B-vTv-KRpo43S1FDbHVnZVc5SUxpU2Q4VXdCRVY1LXplLXNJ" role="button">Download <small>(16MB)</small> &raquo;</a> <a role="button" class="btn spangg-button btn-lg" target="_blank" href="https://drive.google.com/file/d/0B-vTv-KRpo43S1FDbHVnZVc5SUxpU2Q4VXdCRVY1LXplLXNJ/view?usp=sharing">View Online</a></p>
+      <h2>we help business-to-customer organisations amplify their story</h2>
+      <p>building awareness, sustaining engagement, driving traffic, generating leads, increasing sales and inspiring loyalty &ndash; we will add value to every step of the journey to your goals. See how:</p>
+      <p><a class="btn spangg-button btn-lg" href="services" role="button">Services</a> <a role="button" class="btn spangg-button btn-lg" href="work">Work</a></p>
       </center>
     </div>
   </div>
@@ -23,9 +23,9 @@ include_once './inc/header.php';
   <div class="container">
     <div class="row">
       <center>
-      <h2>we can help you achieve your business goals</h2>
-      <p>Spangg means 'exactly', and reflects the quality of our work. Get in touch with us to see how we can work together.</p>
-      <p><a class="btn spangg-button btn-lg" href="mailto:know@spangg.com" target="_blank" role="button">Email</a> <a role="button" class="btn spangg-button btn-lg" target="_blank" href="tel:+91 9985 989 300">Call</a> <a role="button" class="btn spangg-button btn-lg" target="_blank" href="https://www.facebook.com/SpanggMedia/">Facebook</a></p>
+      <h2>how are things going at your organisation?</h2>
+      <p>Need help with specific marketing initiatives or a whole lot at once? Let's get a conversation going soon.</p>
+      <p><a class="btn spangg-button btn-lg" href="contact" role="button">Contact Us</a></p>
       </center>
     </div>
   </div>
