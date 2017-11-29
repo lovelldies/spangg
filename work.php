@@ -7,6 +7,16 @@ include_once './inc/header.php';
 #client-logos {
   padding: 50px 0;
 }
+#client-logos img {
+  max-height: 110px;
+}
+#client-logos .logo-div {
+  float:none;
+  display:inline-block;
+  vertical-align:middle;
+  margin-right:-4px;
+  margin-top: 40px;
+}
 </style>
 <div class="container" id="work">
 <img src="./img/work-banner.png" alt="Work by Spangg!" class="img-responsive">
@@ -26,23 +36,29 @@ include_once './inc/header.php';
 <center>
   <h2>Brands we've worked with.</h2>
   <div class="row">
-    <div class="col-sm-2">
-      <img src="https://via.placeholder.com/120x120" alt="" class="img-circle">
+    <div class="col-sm-3 logo-div">
+      <img class="img-responsive" src="./img/logos/reliance-entertainment.png" alt="Reliance Entertainment" title="Reliance Entertainment">
     </div>
-    <div class="col-sm-2">
-      <img src="https://via.placeholder.com/120x120" alt="" class="img-circle">
+    <div class="col-sm-3 logo-div">
+      <img class="img-responsive" src="./img/logos/kolkata-knight-riders.png" alt="Kolkata Knight Riders" title="Kolkata Knight Riders">
     </div>
-    <div class="col-sm-2">
-      <img src="https://via.placeholder.com/120x120" alt="" class="img-circle">
+    <div class="col-sm-3 logo-div">
+      <img class="img-responsive" src="./img/logos/karachi-bakery.png" alt="Karachi Bakery" title="Karachi Bakery">
     </div>
-    <div class="col-sm-2">
-      <img src="https://via.placeholder.com/120x120" alt="" class="img-circle">
+    <div class="col-sm-3 logo-div">
+      <img class="img-responsive" src="./img/logos/hcc.png" alt="Heart Cup Coffee" title="Heart Cup Coffee">
     </div>
-    <div class="col-sm-2">
-      <img src="https://via.placeholder.com/120x120" alt="" class="img-circle">
+
+  </div>
+  <div class="row">
+    <div class="col-sm-4 logo-div">
+      <img class="img-responsive" src="./img/logos/jk-tyre.png" alt="JK Tyre" title="JK Tyre"> 
     </div>
-    <div class="col-sm-2">
-      <img src="https://via.placeholder.com/120x120" alt="" class="img-circle">
+    <div class="col-sm-4 logo-div">
+      <img class="img-responsive" src="./img/logos/zippr.jpg" alt="Zippr" title="Zippr"> 
+    </div>
+    <div class="col-sm-4 logo-div">
+      <img class="img-responsive" src="./img/logos/clicksco.jpg" alt="Clicksco" title="Clicksco"> 
     </div>
   </div>
 </center>
