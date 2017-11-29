@@ -1,8 +1,8 @@
 <?php 
 $pageTitle = 'Work | Spangg &mdash; Digital Marketing Agency';
-
 include_once './inc/header.php';
 ?>
+
 <style>
 #client-logos {
   padding: 50px 0;
@@ -18,8 +18,9 @@ include_once './inc/header.php';
   margin-top: 40px;
 }
 </style>
+
 <div class="container" id="work">
-<img src="./img/work-banner.png" alt="Work by Spangg!" class="img-responsive">
+  <img src="./img/work-banner.png" alt="Work by Spangg!" class="img-responsive">
 </div>
 
 <div class="jumbotron">

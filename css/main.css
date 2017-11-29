@@ -50,6 +50,51 @@ h2 {
 .spangg-button:hover {
   background-color: #eb3825;
   color: #fff;
-  xfont-weight: bold;
 }
 
+/* Nav bar */
+.navbar-brand {
+  padding: 5px 15px;
+}
+.navbar-brand img {
+  height: 40px;
+  display: inline-block;
+}
+.navbar-default {
+  border-radius: 0;
+  border: 0;
+  border-bottom: 1px solid #e7e7e7;
+}
+.navbar-right li a {
+  text-transform: uppercase;
+  font-size: 1.75rem;
+}
+.navbar-default .navbar-nav li a {
+  /* color: #2b71b6; */
+  color: #424242;
+}
+.navbar-default .navbar-nav li a:hover,
+.navbar-default .navbar-nav li a:focus {
+  color: #e64225;
+  background-color: transparent;
+}
+#spangg-logo-text {
+  color: #2b71b6;
+  font-weight: 400;
+  font-size: 2.2rem;
+  margin-left: 2px;
+}
+/* Nav bar */
+
+/* About */
+#about {
+  line-height: 4rem;
+  margin: 5% 10%;
+}
+#about h2 {
+  line-height: 4.5rem;
+}
+#true-story {
+  color: #e64225;
+}
+/* About */
