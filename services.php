@@ -4,26 +4,43 @@ $pageTitle = 'Services | Spangg &mdash; Digital Marketing Agency';
 include_once './inc/header.php';
 ?>
 <style>
+.panel {
+  font-size: 1.7rem;
+  min-height: 310px;
+}
 .panel-list li {
   list-style: circle;
 }
 .panel-title {
   text-align: center;
+  margin: 10px 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  letter-spacing: 0.1rem;
 }
-.panel {
-  font-size: 1.7rem;
-  min-height: 275px;
+.panel-body {
+  margin-top: 14px;
+}
+.panel-info {
+  border-color: #3564d333;
+}
+.services .panel-info .panel-heading {
+  color: #ffffff;
+  background-image: none;
+  background-color: #2a69ce;
+  border-color: #2a69ce;
+  text-transform: uppercase;
 }
 hr {
   margin-top: 0;
 }
 </style>
 
-<div class="container" id="services">
+<div class="container services">
   <img src="./img/services-banner.png" alt="Services by Spangg!" class="img-responsive">
 </div>
 
-<div class="jumbotron" style="margin: 50px 0 0 0; padding: 100px 0;">
+<div class="jumbotron services" style="margin: 50px 0 0 0; padding: 100px 0;">
   <div class="container-fluid">
     <div class="container">
       <div class="row">
@@ -138,7 +155,5 @@ hr {
     </div>
   </div>
 </div>
-
-
 
 <?php include_once './inc/footer.php'; ?>
