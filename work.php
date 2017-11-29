@@ -35,7 +35,7 @@ include_once './inc/header.php';
 
 <div class="container" id="client-logos">
 <center>
-  <h2>brands we've worked with</h2>
+  <h2>some brands we've worked with</h2>
   <div class="row">
     <div class="col-sm-3 logo-div">
       <img class="img-responsive" src="./img/logos/reliance-entertainment.png" alt="Reliance Entertainment" title="Reliance Entertainment">
