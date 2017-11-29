@@ -1,6 +1,6 @@
 <style>
   .navbar-brand {
-    padding: 5px 10px;
+    padding: 5px 15px;
   }
   .navbar-brand img {
     height: 40px;
