@@ -19,9 +19,15 @@ body .container center p {
 .contact-button {
   margin: 70px 0;
   text-align: center;
+  
 }
+
 .contact-button .spangg-button {
   padding: 15px 45px;
+  background-color: #eb3825;
+}
+.contact-button .spangg-button:hover {
+  background-color: #3586c3;
 }
 
 hr {
