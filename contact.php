@@ -16,12 +16,15 @@ include_once './inc/header.php';
 hr {
   margin-top: 0;
 }
+.thin {
+  font-weight: 100;
+}
 </style>
 
 <center>
 <div class="container-fluid contact">
-  <h2>Most of our meetings happen over the phone, Skype or Google Hangouts. <br>
-    Get in touch to schedule a meeting at a time that works for you.</h2>
+  <h2>Get in touch to schedule a meeting at a time that works for you. <br>
+  <span class="blue-text">Phone</span> <span class="thin">&middot;</span> <span class="orange-text">Skype</span> <span class="thin">&middot;</span> <span class="blue-text">Google Hangouts</span> <span class="thin">&middot;</span> <span class="orange-text">In Person</span></h2>
 </div>
 
 <div class="jumbotron contact" style="margin-bottom:0;">
@@ -29,7 +32,7 @@ hr {
     <div class="col-md-7" style="border-right: 2px solid white; padding-right: 50px;">
       <?php include_once './inc/contact_form.php'; ?>
     </div>
-    <div class="col-md-5" style="text-align: left; padding-left: 50px; margin: 70px auto 50px auto">
+    <div class="col-md-5" style="text-align: left; padding-left: 50px;">
       <address>
         <strong>Spangg Publicity and Media Private Limited</strong> <br>
         D-5, 10-28-4/27, Deepanjali <br>
@@ -37,9 +40,11 @@ hr {
         Andhra Pradesh, India - 530003
       </address>
 
+      <!--
       <address>
         <strong>Email:</strong> <a href="mailto:know@spangg.com">know@spangg.com</a>
       </address>
+      -->
       
       <address>
         <small>Hyderabad, India</small> <br>

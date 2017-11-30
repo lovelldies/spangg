@@ -1,6 +1,5 @@
 <div class="form-area">  
   <form role="form">
-    <h3>Contact Form</h3>
     <div class="form-group">
       <input type="text" class="form-control" id="name" name="name" placeholder="Name" required>
     </div>
@@ -19,6 +18,8 @@
       <span class="help-block"><p id="characterLeft" class="help-block ">You have reached the limit</p></span>    
       -->                
     </div>
-    <button type="button" id="submit" name="submit" class="btn spangg-button">Submit Form</button>
+    <div class="contact-button">
+      <button type="button" id="submit" name="submit" class="btn spangg-button">Send Message</button>
+    </div>
   </form>
 </div>

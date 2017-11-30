@@ -16,6 +16,10 @@ body .container center p {
   margin-bottom: 15px;
 }
 
+.blue-text {
+  color: #3586c3;
+}
+
 .contact-button {
   margin: 70px 0;
   text-align: center;
@@ -44,6 +48,10 @@ h2 {
 
 .jumbotron p {
   font-weight: 400;
+}
+
+.orange-text {
+  color: #eb3825;
 }
 
 .spangg-button {
