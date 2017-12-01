@@ -21,8 +21,7 @@ hr {
 }
 </style>
 
-<center>
-<div class="container-fluid contact">
+<div class="container-fluid contact text-center">
   <h2>Get in touch to schedule a meeting at a time that works for you. <br>
   <span class="blue-text">Phone</span> <span class="thin">&middot;</span> <span class="orange-text">Skype</span> <span class="thin">&middot;</span> <span class="blue-text">Google Hangouts</span> <span class="thin">&middot;</span> <span class="orange-text">In Person</span></h2>
 </div>
@@ -32,7 +31,7 @@ hr {
     <div class="col-md-7" style="border-right: 2px solid white; padding-right: 50px;">
       <?php include_once './inc/contact_form.php'; ?>
     </div>
-    <div class="col-md-5" style="text-align: left; padding-left: 50px;">
+    <div class="col-md-5" style="padding-left: 50px;">
       <address>
         <strong>Spangg Publicity and Media Private Limited</strong> <br>
         D-5, 10-28-4/27, Deepanjali <br>
@@ -40,11 +39,9 @@ hr {
         Andhra Pradesh, India - 530003
       </address>
 
-      <!--
       <address>
         <strong>Email:</strong> <a href="mailto:know@spangg.com">know@spangg.com</a>
       </address>
-      -->
       
       <address>
         <small>Hyderabad, India</small> <br>
@@ -61,7 +58,6 @@ hr {
     </div>
   </div>
 </div>
-</center>
 
 <script>
   $(document).ready(function(){ 
