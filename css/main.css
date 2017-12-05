@@ -16,6 +16,14 @@ body .container center p {
   margin-bottom: 15px;
 }
 
+.about-text {
+  font-size: 2.2rem;
+  line-height: 3.2rem;
+  margin: 50px 0;
+  text-align: justify;
+  max-width: 800px;
+}
+
 .blue-text {
   color: #3586c3;
 }
@@ -31,6 +39,11 @@ body .container center p {
 }
 .contact-button .spangg-button:hover {
   background-color: #3586c3;
+}
+
+.contact-form {
+  border-right: 2px solid white;
+  padding-right: 50px;
 }
 
 hr {
@@ -120,3 +133,40 @@ h2 {
   color: #e64225;
 }
 /* About */
+
+
+@media only screen and (max-width : 480px) {
+  .about-text {
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+  }
+  .blue-text, .orange-text {
+    display: block;
+    margin: 5px 0;
+  }
+  .contact {
+    padding: 5% 6%;
+  }
+  .contact-button {
+    margin: 40px 0;
+  }
+  #about h2, .contact h2 {
+    line-height: 3.5rem;
+  }
+  .contact-form {
+    border-right: none;
+    padding-right: 15px;
+    border-bottom: 2px solid white;
+    margin-bottom: 40px;
+    padding-bottom: 25px;
+}
+  h2, .h2 {
+    font-size: 26px;
+  }
+  .services-main {
+    padding: 50px 0 !important;
+  }
+  .thin {
+    display: none;
+  }
+}

@@ -26,9 +26,9 @@ hr {
   <span class="blue-text">Phone</span> <span class="thin">&middot;</span> <span class="orange-text">Skype</span> <span class="thin">&middot;</span> <span class="blue-text">Google Hangouts</span> <span class="thin">&middot;</span> <span class="orange-text">In Person</span></h2>
 </div>
 
-<div class="jumbotron contact" style="margin-bottom:0;">
+<div class="jumbotron contact" style="margin-bottom:0;padding:40px 15px">
   <div class="row">
-    <div class="col-md-7" style="border-right: 2px solid white; padding-right: 50px;">
+    <div class="col-md-7 contact-form">
       <?php include_once './inc/contact_form.php'; ?>
     </div>
     <div class="col-md-5" style="padding-left: 50px;">

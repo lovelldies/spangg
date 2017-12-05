@@ -24,6 +24,10 @@ include_once './inc/header.php';
 .panel-info {
   border-color: #3564d333;
 }
+.services-main {
+  margin: 50px 0 0 0;
+  padding: 100px 0;
+}
 .services .panel-info .panel-heading {
   color: #ffffff;
   background-image: none;
@@ -40,7 +44,7 @@ hr {
   <img src="./img/services-banner.png" alt="Services by Spangg!" class="img-responsive">
 </div>
 
-<div class="jumbotron services" style="margin: 50px 0 0 0; padding: 100px 0;">
+<div class="jumbotron services services-main">
   <div class="container-fluid">
     <div class="container">
       <div class="row">

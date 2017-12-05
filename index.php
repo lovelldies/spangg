@@ -6,7 +6,7 @@ include_once './inc/header.php';
    
   <div class="container">
     <div class="row">
-      <img class="center-block img-responsive" src="img/hello-spangg.png" alt="Hello, we're Spangg!" title="Spangg - Digital Marketing Agency" />
+      <img style="padding:5%;" class="center-block img-responsive" src="img/hello-spangg.png" alt="Hello, we're Spangg!" title="Spangg - Digital Marketing Agency" />
     </div>
   </div>
 
@@ -22,7 +22,7 @@ include_once './inc/header.php';
 
   <div class="container">
     <div class="row">
-      <center>
+      <center style="padding:5px;">
       <h2>how are things going at your organisation?</h2>
       <p>need help with specific marketing initiatives or a whole lot at once? Let's have a conversation!</p>
       <?php include_once './inc/get_in_touch.php'; ?>

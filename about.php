@@ -22,7 +22,7 @@ include_once './inc/header.php';
   We care about helping organisations achieve meaningful results <br> and value the experiences and learnings from the way there.</p>
   -->
   
-  <p style="font-size: 2.2rem;line-height: 3.2rem;margin: 50px 0;text-align: justify;max-width: 800px;">We're a <span class="orange">modern-day marketing agency</span> – <span class="orange">digital media</span> is at the centre of all that we do. We're brimming with <span class="orange">creative ideas</span> and the <span class="orange">enthusiasm</span> + <span class="orange">focus</span> to execute them quickly. We care about <span class="orange">helping organisations</span> achieve <span class="orange">meaningful results</span> and <span class="orange">value the experiences and learnings</span> from the way there.</p>
+  <p class="about-text">We're a <span class="orange">modern-day marketing agency</span> – <span class="orange">digital media</span> is at the centre of all that we do. We're brimming with <span class="orange">creative ideas</span> and the <span class="orange">enthusiasm</span> + <span class="orange">focus</span> to execute them quickly. We care about <span class="orange">helping organisations</span> achieve <span class="orange">meaningful results</span> and <span class="orange">value the experiences and learnings</span> from the way there.</p>
 
   <h2>We're Spangg. <br>
   We can amplify your brand's story. <br>

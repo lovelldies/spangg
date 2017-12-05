@@ -19,14 +19,14 @@
   <div class="col-md-12 form-group">
     <input type="text" class="form-control" id="subject" name="subject" placeholder="* Subject"  required="true">
   </div>
-  <div class="col-md-12 form-group">
+  <div class="col-md-12 form-group" style="margin-bottom:0;" >
     <textarea class="form-control" rows="4" name="message" id="message" placeholder="* Please leave us a message." required="true"></textarea>
   </div>
   <div class="col-md-12">
     <small class="text-muted"><strong>*</strong> Required fields.</small>
   </div>
   <div class="col-md-12 form-group">
-    <center>
+    <center style="padding-top:25px">
       <div id="response"></div>
       <input type="submit" value="Submit" class="btn btn-lg spangg-button-orange" />
       <input type="reset" value="Reset" class="btn btn-lg" />

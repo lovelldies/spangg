@@ -5,7 +5,7 @@ include_once './inc/header.php';
 
 <style>
 #client-logos {
-  padding: 50px 0;
+  padding: 50px 5%;
 }
 #client-logos img {
   max-height: 110px;
@@ -19,7 +19,7 @@ include_once './inc/header.php';
 }
 </style>
 
-<div class="container" id="work">
+<div class="container" id="work" style="padding-bottom: 25px;">
   <img src="./img/work-banner.png" alt="Work by Spangg!" class="img-responsive">
 </div>
 
@@ -37,41 +37,41 @@ include_once './inc/header.php';
 <center>
   <h2>some brands we've worked with</h2>
   <div class="row">
-    <div class="col-sm-3 logo-div">
+    <div class="col-xs-6 col-sm-3 logo-div">
       <img class="img-responsive" src="./img/logos/kolkata-knight-riders.png" alt="Kolkata Knight Riders" title="Kolkata Knight Riders">
     </div>
-    <div class="col-sm-3 logo-div">
+    <div class="col-xs-6 col-sm-3 logo-div">
       <img class="img-responsive" src="./img/logos/karachi-bakery.png" alt="Karachi Bakery" title="Karachi Bakery">
     </div>
-    <div class="col-sm-3 logo-div">
+    <div class="col-xs-6 col-sm-3 logo-div">
       <img class="img-responsive" src="./img/logos/hcc.png" alt="Heart Cup Coffee" title="Heart Cup Coffee">
     </div>
-    <div class="col-sm-3 logo-div">
+    <div class="col-xs-6 col-sm-3 logo-div">
       <img class="img-responsive" src="./img/logos/siya.jpg" alt="SiyaWoman" title="SiyaWoman">
     </div>
   </div>
   <div class="row">
-    <div class="col-sm-3 logo-div">
+    <div class="col-xs-12 col-sm-3 logo-div">
       <img class="img-responsive" src="./img/logos/reliance-entertainment.png" alt="Reliance Entertainment" title="Reliance Entertainment">
     </div>
-    <div class="col-sm-3 logo-div">
+    <div class="col-xs-12 col-sm-3 logo-div">
       <img class="img-responsive" src="./img/logos/jk-tyre.png" alt="JK Tyre" title="JK Tyre"> 
     </div>
-    <div class="col-sm-3 logo-div">
+    <div class="col-xs-12 col-sm-3 logo-div">
       <img class="img-responsive" src="./img/logos/zippr.jpg" alt="Zippr" title="Zippr"> 
     </div>
-    <div class="col-sm-3 logo-div">
+    <div class="col-xs-12 col-sm-3 logo-div">
       <img class="img-responsive" src="./img/logos/clicksco.jpg" alt="Clicksco" title="Clicksco"> 
     </div>
   </div>
   <div class="row">
-    <div class="col-sm-4 logo-div">
+    <div class="col-xs-4 col-sm-4 logo-div">
       <img class="img-responsive" src="./img/logos/mytrah.jpg" alt="Mytrah Energy" title="Mytrah Energy">
     </div>
-    <div class="col-sm-4 logo-div">
+    <div class="col-xs-4 col-sm-4 logo-div">
       <img class="img-responsive" src="./img/logos/novotel.png" alt="Novotel" title="Novotel"> 
     </div>
-    <div class="col-sm-4 logo-div">
+    <div class="col-xs-4 col-sm-4 logo-div">
       <img class="img-responsive" src="./img/logos/b-one.jpg" alt="B.One" title="B.One"> 
     </div>
   </div>
