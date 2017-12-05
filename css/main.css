@@ -23,7 +23,6 @@ body .container center p {
 .contact-button {
   margin: 70px 0;
   text-align: center;
-  
 }
 
 .contact-button .spangg-button {
@@ -60,9 +59,18 @@ h2 {
   color: #fff;
   margin: 5px;
 }
-
 .spangg-button:hover {
   background-color: #eb3825;
+  color: #fff;
+}
+
+.spangg-button-orange {
+  background-color: #eb3825;
+  border: 1px solid #bfbfbf;
+  color: #fff;
+}
+.spangg-button-orange:hover {
+  background-color: #3586c3;
   color: #fff;
 }
 
