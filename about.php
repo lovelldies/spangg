@@ -13,14 +13,8 @@ include_once './inc/header.php';
 <div class="container-fluid" id="about">
   <center>
   <h2>We are a lot like you. <br>
-  You dream, you hustle, you succeed. <br>
+  You dream, you hustle, you win. <br>
   So do we.</h2>
-  
-  <!--
-  <p style="font-size: 2.2rem; line-height: 3.6rem; margin: 50px 0;">We're a modern-day marketing agency &ndash; digital media is at the centre of all that we do. <br>
-  We're brimming with creative ideas and the enthusiasm + focus <br> to execute them quickly.<br>
-  We care about helping organisations achieve meaningful results <br> and value the experiences and learnings from the way there.</p>
-  -->
   
   <p class="about-text">We're a <span class="orange">modern-day marketing agency</span> – <span class="orange">digital media</span> is at the centre of all that we do. We're brimming with <span class="orange">creative ideas</span> and the <span class="orange">enthusiasm</span> + <span class="orange">focus</span> to execute them quickly. We care about <span class="orange">helping organisations</span> achieve <span class="orange">meaningful results</span> and <span class="orange">value the experiences and learnings</span> from the way there.</p>
 
