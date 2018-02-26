@@ -20,7 +20,7 @@ include_once './inc/header.php';
 </style>
 
 <div class="container" id="work" style="padding-bottom: 25px;">
-  <img src="./img/work-banner.png" alt="Work by Spangg!" class="img-responsive">
+  <img src="./img/work-banner-new.png" alt="Work by Spangg!" class="img-responsive">
 </div>
 
 <div class="jumbotron">
