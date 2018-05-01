@@ -6,7 +6,7 @@
 
 <div class="form-area">  
   <form id="email-form">
-  <input type="hidden" name="sendto" value="know@spangg.com">
+  <input type="hidden" name="sendto" value="adarsh@spangg.com">
   <div class="col-md-12 form-group">
     <input type="text" class="form-control" name="name" id="name" placeholder="* Name" required="true">
   </div>
