@@ -40,13 +40,7 @@ hr {
       </address>
 
       <address>
-        <strong>Email:</strong> <a href="mailto:know@spangg.com">know@spangg.com</a>
-      </address>
-      
-      <address>
-        <small>Hyderabad, India</small> <br>
-        <strong>Ashok:</strong> <a href="tel:+91 9985989300">+91 9985989300</a> <br>
-        <strong>Alex:</strong> <a href="tel:+91 9701856549">+91 9701856549</a>
+        <strong>Email:</strong> <a href="mailto:adarsh@spangg.com">adarsh@spangg.com</a>
       </address>
 
       <address>
